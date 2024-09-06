@@ -33,6 +33,10 @@
     font-size: 0.6em;
 }
 
+.text-second {
+    color: var(--text-second);
+}
+
 .items-split > * {
     display: inline-block;
     margin-right: 2em;
@@ -110,4 +114,18 @@
 
 .hidden-link {
     color: var(--text) !important;
+}
+
+.gap-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center everything horizontally */
+    justify-content: space-around; /* Add space around the items */
+}
+
+.gap-flex > * {
+    display: flex;
+    justify-content: space-between; /* Create the effect of a gap */
+    width: 50%; /* Set a fixed width for the columns around the gap */
+    text-align: center;
 }

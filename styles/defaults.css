@@ -47,8 +47,9 @@
 
 :root {
     --text: #fff;
+    --text-second: #bbb;
     --back: #000;
-    --link: #114bbe;
+    --link: #366edd;
     --first: #0083e0;
     --warning: #ffaa00;
     --error: #ff0000;
@@ -67,4 +68,8 @@ html, body {
 a {
     color: var(--link);
     text-decoration: none;
+}
+
+details > summary {
+    list-style-type: "";
 }

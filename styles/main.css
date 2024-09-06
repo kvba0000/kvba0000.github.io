@@ -8,6 +8,12 @@
     align-items: center;
 }
 
+@media only screen and (max-width: 600px) {
+    #logo {
+        font-size: 0.8em;
+    }
+}
+
 #about, #faq {
     max-width: 500px;
     position: relative;
@@ -17,6 +23,7 @@
 
 #faq > details {
     cursor: pointer;
+    margin: 20px auto;
 }
 
 #nojs::before {
