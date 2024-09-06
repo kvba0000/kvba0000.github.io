@@ -63,7 +63,7 @@
     text-transform: uppercase;
     content: " " attr(data-reason) " (?)";
     font-size: 0.6em;
-    color: #ff0000;
+    color: var(--error);
 }
 
 .problem:hover::before {
@@ -76,15 +76,15 @@
 
     padding: 20px;
 
-    background-color: #000000;
-    border: solid 2px #ff0000;
+    background-color: var(--back);
+    border: solid 2px var(--error);
 
     z-index: 1000;
 }
 
 .attention-text::before {
     content: ">  ";
-    color: yellow;
+    color: var(--warning);
     white-space: pre;
 
     animation: attention-left 1s infinite linear;
@@ -92,7 +92,7 @@
 
 .attention-text::after {
     content: "  <";
-    color: yellow;
+    color: var(--warning);
     white-space: pre;
 
     animation: attention-right 1s infinite linear;
@@ -100,10 +100,14 @@
 
 .attention-text:hover::before {
     content: " > " !important;
-    color: red;
+    color: var(--error);
 }
 
 .attention-text:hover::after {
     content: " < " !important;
-    color: red;
+    color: var(--error);
+}
+
+.hidden-link {
+    color: var(--text);
 }

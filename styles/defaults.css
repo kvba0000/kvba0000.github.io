@@ -45,17 +45,26 @@
     }
 }
 
+:root {
+    --text: #fff;
+    --back: #000;
+    --link: #114bbe;
+    --first: #0083e0;
+    --warning: #ffaa00;
+    --error: #ff0000;
+}
+
 html, body {
     margin: 0;
     padding: 0;
 
     font-family: 'Roboto Mono', monospace;
 
-    background-color: #000000;
-    color: white;
+    background-color: var(--back);
+    color: var(--text);
 }
 
 a {
-    color: #114bbe;
+    color: var(--link);
     text-decoration: none;
 }
