@@ -1,0 +1,25 @@
+{
+    "about-header": "O mnie",
+    "about-text-1": "Cześć, jestem Kuba! Jestem",
+    "about-text-2": "letnim programistą.\nPasjonuję się sztuczną inteligencją, analityką i automatyzacją różnych rzeczy.\nLubię tworzyć rzeczy, które ułatwiają życie innym lub sprawiają, że jestem szczęśliwy.\nW wolnym czasie lubię eksperymentować z innymi hobby, takimi jak edycja wideo lub tworzenie muzyki.\nByłbym bardziej niż szczęśliwy, gdybyś mógł okazać mi wsparcie, sprawdzając moje projekty na GitHubie! (a może nawet je współtworzyć! :D)",
+
+    "projects-header": "Wyróżnione Projekty",
+
+    "social-header": "Social Media & Kontakt",
+
+    "faq-header": "FAQ",
+
+    "faq-1-title": "1. Co się stało ze starą stroną?",
+    "faq-1-text-1": "Dla tych którzy nie wiedzą. Była stara strona którą zrobiłem w Next.JS. Ogólnie wyglądała ona bardzo generycznie.",
+    "faq-1-text-2": "Nie podobał mi się fakt, że wyglądała tak pusto, bez włożonych w nią emocji, więc usunąłem starą stronę i zacząłem robić tę.\n\nZdałem sobie sprawę, że nie potrzebuję wysokiej klasy, w pełni javascriptowej i reactowej strony, aby spełniała moje potrzeby.\nTak właśnie skończyłem tworząc tę. Mam nadzieję, że się podoba ;)",
+    "faq-2-title": "2. Jakie języki programowania znasz?",
+    "faq-2-text": "Dość ogólne pytanie, jeśli by mnie ktoś pytał.\nPracuję głównie z JS/TS, w tym Node.JS (ogólnie Web Dev jest tym, co kocham)\nUżywałem również C#/Java/Python/GO i prawdopodobnie jeszcze innych języków, których teraz nie pamiętam. Lubię eksperymentować z różnymi rzeczami.\nTeraz skupiam się na nauce C++, ponieważ chcę, aby był to mój nowy główny język i chcę tworzyć w nim projekty.",
+    "faq-3-title": "3. Jakie języki (nie programowania) znasz?",
+    "faq-3-text": "Obecnie znam język polski, ponieważ jest to mój rodzimy język. Biegle mówię również po angielsku.\nZnam też kilka zwrotów w języku niemieckim/rosyjskim/hiszpańskim i obecnie uczę się języka japońskiego.",
+    "faq-4-title": "4. Czy mogę współtworzyć twoje projekty?",
+    "faq-4-text-repos": "Oczywiście że możesz!",
+    "faq-4-text-1": "Jestem otwarty na ludzi, którzy chcą współtworzyć moje projekty i forkować je dla swoich własnych!\nW przypadku forków zwykle nie wymagam żadnych creditsów, ponieważ jest to główny powód, dla którego mam te projekty otwarte, ale byłoby bardziej niż miło zobaczyć twoje wsparcie.",
+    "faq-5-title": "5. Czy mogę wpłacić darowiznę?",
+    "faq-5-text": "Obecnie nie przyjmuję darowizn.\nJeśli będzie na to duże zapotrzebowanie, otworzę taką możliwość, ale PROSZĘ, jeśli masz coś innego, na co możesz przeznaczyć pieniądze - zrób to tam, a nie dla mnie!\nNaprawdę nie mam jak tego docenić, poza miłym słowem i podziękowaniem.",
+    "faq-footer": "Dodam więcej pytań, jeśli będzie taka potrzeba."
+}

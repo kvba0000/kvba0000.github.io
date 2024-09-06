@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url(fonts/RobotoMono-VariableFont_wght.ttf);
+}
+
+@keyframes rainbow-simple {
+    0% {
+        color: #ff0000;
+    }
+    14.2% {
+        color: #ff7f00;
+    }
+    28.5% {
+        color: #ffff00;
+    }
+    42.8% {
+        color: #00ff00;
+    }
+    71.4% {
+        color: #0000ff;
+    }
+    85.7% {
+        color: #4b0082;
+    }
+    100% {
+        color: #ff0000;
+    }
+}
+
+@keyframes attention-left {
+    0% {
+        content: " > ";
+    }
+    100% {
+        content: ">  ";
+    }
+}
+
+@keyframes attention-right {
+    0% {
+        content: " < ";
+    }
+    100% {
+        content: "  <";
+    }
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+
+    font-family: 'Roboto Mono', monospace;
+
+    background-color: #000000;
+    color: white;
+}
+
+a {
+    color: #114bbe;
+    text-decoration: none;
+}

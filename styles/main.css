@@ -1,0 +1,33 @@
+@import url('defaults.css');
+@import url('shared.css');
+
+#logo-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#about, #faq {
+    max-width: 500px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#faq > details {
+    cursor: pointer;
+}
+
+#nojs::before {
+    content: "(" attr(data-text1) ")";
+}
+
+#nojs:hover::before {
+    content: "";
+}
+
+#nojs:hover::after {
+    content: "(" attr(data-text2) ")";
+    animation: rainbow-simple 3s infinite;
+}

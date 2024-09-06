@@ -1,0 +1,109 @@
+.new-line {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.unselectable {
+    user-select: none;
+}
+
+.line-splitter {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 40px auto;
+}
+
+.bi-flag-text {
+    background-image: linear-gradient(#d70270 40%, #734f96 20%, #0038a8);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+.col-red {
+    color: red;
+}
+
+.text-small {
+    font-size: 0.8em;
+}
+
+.text-smaller {
+    font-size: 0.6em;
+}
+
+.items-split > * {
+    display: inline-block;
+    margin-right: 2em;
+}
+
+.vert-margin {
+    margin: 20px auto;
+}
+
+.center-items {
+    text-align: center;
+}
+
+.center-relative {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.block {
+    display: block;
+}
+
+
+.problem::after {
+    cursor: pointer;
+
+    text-transform: uppercase;
+    content: " " attr(data-reason) " (?)";
+    font-size: 0.6em;
+    color: #ff0000;
+}
+
+.problem:hover::before {
+    content: attr(data-description);
+
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    padding: 20px;
+
+    background-color: #000000;
+    border: solid 2px #ff0000;
+
+    z-index: 1000;
+}
+
+.attention-text::before {
+    content: ">  ";
+    color: yellow;
+    white-space: pre;
+
+    animation: attention-left 1s infinite linear;
+}
+
+.attention-text::after {
+    content: "  <";
+    color: yellow;
+    white-space: pre;
+
+    animation: attention-right 1s infinite linear;
+}
+
+.attention-text:hover::before {
+    content: " > " !important;
+    color: red;
+}
+
+.attention-text:hover::after {
+    content: " < " !important;
+    color: red;
+}
