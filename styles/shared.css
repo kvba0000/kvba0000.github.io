@@ -109,5 +109,5 @@
 }
 
 .hidden-link {
-    color: var(--text);
+    color: var(--text) !important;
 }
