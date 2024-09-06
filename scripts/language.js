@@ -1,12 +1,16 @@
 const AVAILABLE_LANGS = ["en-US", "pl-PL"];
 const DEFAULT_LANG = AVAILABLE_LANGS[0]; // english
 
-
 // Language switcher
 const currentLanguage = new URLSearchParams(location.search).get("lang") || 
     localStorage.getItem("lang") ||
     navigator.language ||
     DEFAULT_LANG;
+
+const u = new URL(location)
+u.searchParams.delete("lang")
+history.replaceState({}, null, u)
+    
 const translate = async () => {
     if(!AVAILABLE_LANGS.includes(currentLanguage) || currentLanguage === DEFAULT_LANG) return;
 
