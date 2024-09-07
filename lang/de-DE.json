@@ -1,0 +1,30 @@
+{
+    "about-header": "Über mich",
+    "about-text-1": "Hallo, ich bin Kuba! Ich bin",
+    "about-text-2": "Jahre alt und ein Programmierer.\nIch interessiere mich leidenschaftlich für künstliche Intelligenz, Analytik und die Automatisierung verschiedener Dinge.\nIch mag es, Dinge zu erschaffen, die das Leben anderer erleichtern oder mich glücklich machen.\nIn meiner Freizeit experimentiere ich gerne mit anderen Hobbys wie Videobearbeitung oder Musikproduktion.\nIch wäre überglücklich, wenn du meine Projekte auf GitHub ansehen würdest! (vielleicht magst du sogar mitmachen! :D)",
+
+    "projects-header": "Ausgewählte Projekte",
+
+    "social-header": "Social Media & Kontakt",
+
+    "faq-header": "FAQ",
+
+    "faq-1-title": "1. Was ist mit der alten Webseite passiert?",
+    "faq-1-text-1": "Für diejenigen, die es nicht wissen. Es gab eine alte Webseite, die ich mit Next.JS erstellt hatte. Insgesamt sah sie sehr generisch aus.",
+    "faq-1-text-2": "Mir gefiel nicht, dass sie so leer und emotionslos wirkte, also habe ich die alte Seite entfernt und angefangen, diese zu erstellen.\n\nIch habe erkannt, dass ich keine hochklassige, vollständig auf JavaScript und React basierende Seite brauche, um meine Bedürfnisse zu erfüllen.\nSo bin ich schließlich bei dieser hier gelandet. Ich hoffe, sie gefällt dir ;)",
+    
+    "faq-2-title": "2. Welche Programmiersprachen beherrschst du?",
+    "faq-2-text": "Eine ziemlich allgemeine Frage, wenn du mich fragst.\nIch arbeite hauptsächlich mit JS/TS, einschließlich Node.JS (Webentwicklung ist meine Leidenschaft)\nIch habe auch C#/Java/Python/GO verwendet und wahrscheinlich noch weitere, die mir gerade nicht einfallen. Ich experimentiere gerne mit verschiedenen Dingen.\nDerzeit konzentriere ich mich auf das Erlernen von C++, da ich dies zu meiner neuen Hauptsprache machen möchte und Projekte damit entwickeln will.",
+
+    "faq-3-title": "3. Welche (nicht-programmiertechnischen) Sprachen sprichst du?",
+    "faq-3-text": "Ich spreche derzeit Polnisch, da es meine Muttersprache ist. Ich beherrsche auch fließend Englisch.\nIch kenne auch einige Phrasen auf Deutsch/Russisch/Spanisch und lerne derzeit Japanisch.",
+
+    "faq-4-title": "4. Kann ich an deinen Projekten mitarbeiten?",
+    "faq-4-text-repos": "Natürlich kannst du das!",
+    "faq-4-text-1": "Ich bin offen für Leute, die an meinen Projekten mitarbeiten und diese für ihre eigenen Zwecke forken möchten!\nIn den meisten Fällen verlange ich bei Forks keine Credits, da das der Hauptgrund ist, warum ich meine Projekte offen habe. Es wäre jedoch schön, deine Unterstützung zu sehen.",
+
+    "faq-5-title": "5. Kann ich eine Spende machen?",
+    "faq-5-text": "Ich nehme derzeit keine Spenden an.\nWenn es eine große Nachfrage gibt, werde ich diese Möglichkeit eröffnen, aber BITTE, wenn du das Geld für etwas anderes verwenden kannst - tu das lieber, anstatt es mir zu geben!\nIch habe wirklich keine Möglichkeit, dies zu würdigen, außer mit einem netten Wort und einem Dankeschön.",
+
+    "faq-footer": "Ich werde mehr Fragen hinzufügen, falls nötig."
+}

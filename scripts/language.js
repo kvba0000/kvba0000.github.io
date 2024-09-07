@@ -1,4 +1,4 @@
-const AVAILABLE_LANGS = ["en-US", "pl-PL"];
+const AVAILABLE_LANGS = ["en-US", "pl-PL", "de-DE", "sr"];
 const DEFAULT_LANG = AVAILABLE_LANGS[0]; // english
 
 // Language switcher
@@ -43,8 +43,11 @@ const prepareLanguageSwitcher = () => {
         const l = AVAILABLE_LANGS[i]
 
         const el = document.createElement("a")
-        const [ language, region ] = l.split("-")
-        el.textContent = `${language}${region.toLowerCase() !== language.toLowerCase() ? ` (${region})` : ""}`
+        const [ language, region ] = [
+            ...l.split("-"),
+            ...new Array(2).fill(null)
+        ]
+        el.textContent = `${language}${region && region.toLowerCase() !== language.toLowerCase() ? ` (${region})` : ""}`
         if(l !== currentLanguage) el.href = `?lang=${l}`
         languageSwitcher.appendChild(el)
         
