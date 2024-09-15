@@ -21,5 +21,6 @@ Remember to keep the format of file the same as the rest files have. Finish the 
 ### Generators/Tools
 - [sokmontrey](https://github.com/sokmontrey) - Ascii Generated Avatar (https://imageascii.netlify.app/)
 - [hermanTenuki](https://github.com/hermanTenuki) - Ascii Generated Logo (https://ascii-generator.site/)
-### Translators
-- Nikola.567 - Verification of serbian AI generated translation.
+### Translations
+- **Nikola.567** ([TikTok](https://tiktok.com/@when_imposter_is_sus788)) - Verification of serbian AI generated translation.
+- **Kartoffel_II** ([Twitter](https://x.com/Kartoffel_II)) - Verification and correction of german AI generated translation.
