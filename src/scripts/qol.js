@@ -3,11 +3,12 @@ document.ondragstart = (e) => e.preventDefault();
 
 // Smart age calculating ;)
 const calculateAge = () => {
-    const dobDate = new Date("05-27-2005");
-    const diff_ms = Date.now() - dobDate.getTime();
-    const age_dt = new Date(diff_ms);
-    const age = Math.abs(age_dt.getUTCFullYear() - 1970);
+    const dob = 1117144800000; // 27.05.2005
+    const curr = Date.now();
+
+    const age = Math.floor((curr - dob) / 31536000000); // 31536000000 = 1000 * 60 * 60 * 24 * 365
     
+    if(age <= 0 || isNaN(age)) return;
     document.getElementById("age").textContent = age;
 }
 calculateAge();
