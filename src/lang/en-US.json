@@ -1,1 +1,25 @@
-{}
+{
+    "about-header": "About me",
+    "about-text-1": "Hi! I'm Kuba! I'm a",
+    "about-text-2": "year old software developer.\n                I passionate in AI, analytics and automation of various stuff.\n                I like to make things that makes other's life easier or that makes me happy.\n                In the free time I like to experiment with other hobbies like video editing or making music.\n                I'd be more than happy if you could show me support by checking out my projects on GitHub! (and maybe even contribute to them! :D)",
+
+    "projects-header": "Featured Projects",
+
+    "social-header": "Social Media & Contact",
+
+    "faq-header": "FAQ",
+
+    "faq-1-title": "1. What happened to the old website?",
+    "faq-1-text-1": "For those who don't know. There was an old website I made in Next.JS. Overall it looked very generic.",
+    "faq-1-text-2": "I didn't like the fact it looked so blank with no actual emotions put into it so I scraped the old website and started doing this one.\n\nI realized I don't need a high class, fully javascript and react filled website for it to be fulfilling my needs.\nThat's how I ended up making this one. I hope you like it ;)",
+    "faq-2-title": "2. What programming languages do you know?",
+    "faq-2-text": "Quite general question if you'd ask me.\nI'm mainly working with JS/TS including Node.JS (overall Web Dev is what I love)\nI also used C#/Java/Python/GO and probably even more languages that I cannot remember now. I like to experiment with stuff.\nNow I'm focusing on learning C++ as I want it to be my new main language and I want to make projects with it.",
+    "faq-3-title": "3. What languages (not programming) do you know?",
+    "faq-3-text": "Currently I know polish as it is my native language. I am fluent in english as well.\nAnd I know some phrases in german/russian/spanish and currently learning japanese.",
+    "faq-4-title": "4. Can I contribute to your projects?",
+    "faq-4-text-repos": "Of course you do!",
+    "faq-4-text-1": "I am open for people to contribute to my projects and forking them for their own ones!\nIn case of forks, I usually don't require any credits since that's main reason I'm having these projects open, but would be more than nice to see your support.",
+    "faq-5-title": "5. Can I donate?",
+    "faq-5-text": "I currently don't take donations.\nIf there's gonna be a high need for it then I'll open it up, but PLEASE, if you have anything else you can use money for - do it there, and not for me!\nI really have no way to appreciate it, besides of nice word and thank you.",
+    "faq-footer": "I'll add more questions if there gonna be need to."
+}

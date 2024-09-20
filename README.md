@@ -8,7 +8,7 @@ The difference between this and other sites is that it **doesn't require JavaScr
 The only difference between non-script and script version of my website is that the script version has language switcher and automatic age calculation. Pretty much rest of the site should work flawlessly with no errors or visual issues.
 ## Translation
 **Website supports translation! How to do it?**  
-In the `src` folder you'll see `lang` directory, there are stored JSON files with translations. After finding it, it's pretty straightforward. Just copy one of the files (not `en-US` as it is empty by default) and translate them to your language! **Keep in mind to look at context and not translate keys!** For example:
+In the `src` folder you'll see `lang` directory, there are stored JSON files with translations. After finding it, it's pretty straightforward. Just copy one of the files and translate them to your language! **Keep in mind to look at context and not translate keys!** For example:
 ```
  \/ DON'T TRANSLATE THIS
 "key": "value you want to translate"
