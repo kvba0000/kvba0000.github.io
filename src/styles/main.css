@@ -1,6 +1,28 @@
 @import url('defaults.css');
 @import url('shared.css');
 
+
+#cursor {
+    position: absolute;
+    top: -20px;
+    left: -10px;
+    width: 10px;
+    height: 20px;
+    background: white;
+    pointer-events: none;
+    mix-blend-mode: difference;
+    z-index: 9999;
+}
+
+#cursor.out {
+    display: none;
+}
+
+#cursor.hover {
+    animation: rainbow-simple-bg 3s infinite;
+}
+
+
 #logo-container {
     display: flex;
     flex-direction: column;

@@ -27,6 +27,30 @@
     }
 }
 
+@keyframes rainbow-simple-bg {
+    0% {
+        background-color: #ff0000;
+    }
+    14.2% {
+        background-color: #ff7f00;
+    }
+    28.5% {
+        background-color: #ffff00;
+    }
+    42.8% {
+        background-color: #00ff00;
+    }
+    71.4% {
+        background-color: #0000ff;
+    }
+    85.7% {
+        background-color: #4b0082;
+    }
+    100% {
+        background-color: #ff0000;
+    }
+}
+
 @keyframes attention-left {
     0% {
         content: " > ";
@@ -58,7 +82,9 @@
 html, body {
     margin: 0;
     padding: 0;
+}
 
+body {
     font-family: 'Roboto Mono', monospace;
 
     background-color: var(--back);
