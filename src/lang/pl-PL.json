@@ -2,13 +2,9 @@
     "about-header": "O mnie",
     "about-text-1": "Cześć, jestem Kuba! Jestem",
     "about-text-2": "letnim programistą.\nPasjonuję się sztuczną inteligencją, analityką i automatyzacją różnych rzeczy.\nLubię tworzyć rzeczy, które ułatwiają życie innym lub sprawiają, że jestem szczęśliwy.\nW wolnym czasie lubię eksperymentować z innymi hobby, takimi jak edycja wideo lub tworzenie muzyki.\nByłbym bardziej niż szczęśliwy, gdybyś mógł okazać mi wsparcie, sprawdzając moje projekty na GitHubie! (a może nawet je współtworzyć! :D)",
-
     "projects-header": "Wyróżnione Projekty",
-
     "social-header": "Social Media & Kontakt",
-
     "faq-header": "FAQ",
-
     "faq-1-title": "1. Co się stało ze starą stroną?",
     "faq-1-text-1": "Dla tych którzy nie wiedzą. Była stara strona którą zrobiłem w Next.JS. Ogólnie wyglądała ona bardzo generycznie.",
     "faq-1-text-2": "Nie podobał mi się fakt, że wyglądała tak pusto, bez włożonych w nią emocji, więc usunąłem starą stronę i zacząłem robić tę.\n\nZdałem sobie sprawę, że nie potrzebuję wysokiej klasy, w pełni javascriptowej i reactowej strony, aby spełniała moje potrzeby.\nTak właśnie skończyłem tworząc tę. Mam nadzieję, że się podoba ;)",
