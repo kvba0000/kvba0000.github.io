@@ -2,29 +2,20 @@
     "about-header": "O meni",
     "about-text-1": "Ćao, ja sam Kuba! Ja sam",
     "about-text-2": "godina programer.\nStrastven sam prema veštačkoj inteligenciji, analitici i automatizaciji različitih stvari.\nVolim da pravim stvari koje olakšavaju život drugima ili me čine srećnim.\nU slobodno vreme volim da eksperimentišem sa drugim hobijima, poput video montaže ili stvaranja muzike.\nBio bih više nego srećan ako biste mogli da me podržite tako što ćete pogledati moje projekte na GitHub-u! (a možda čak i da ih zajedno razvijamo! :D)",
-
     "projects-header": "Istaknuti Projekti",
-
     "social-header": "Društvene Mreže & Kontakt",
-
     "faq-header": "FAQ",
-
     "faq-1-title": "1. Šta se desilo sa starim sajtom?",
     "faq-1-text-1": "Za one koji ne znaju. Postojao je stari sajt koji sam napravio u Next.JS. Generalno, izgledao je veoma generično.",
     "faq-1-text-2": "Nije mi se svidelo to što je izgledao tako prazno, bez unesenih emocija, pa sam obrisao stari sajt i počeo da pravim ovaj.\n\nShvatio sam da mi nije potrebna visoko sofisticirana, potpuno javascript i react stranica da bi ispunila moje potrebe.\nTako sam završio praveći ovu. Nadam se da vam se sviđa ;)",
-
     "faq-2-title": "2. Koje programske jezike poznaješ?",
     "faq-2-text": "Prilično uopšteno pitanje, ako mene pitate.\nUglavnom radim sa JS/TS, uključujući Node.JS (generalno, Web Dev je ono što volim).\nTakođe sam koristio C#/Java/Python/GO i verovatno još neke jezike kojih se sada ne sećam. Volim da eksperimentišem sa različitim stvarima.\nTrenutno se fokusiram na učenje C++, jer želim da to postane moj glavni jezik i da u njemu razvijam projekte.",
-
     "faq-3-title": "3. Koje (ne programske) jezike poznaješ?",
     "faq-3-text": "Trenutno znam poljski, jer je to moj maternji jezik. Takođe tečno govorim engleski.\nZnam nekoliko fraza na nemačkom/ruskom/španskom i trenutno učim japanski.",
-
     "faq-4-title": "4. Da li mogu da doprinosim tvojim projektima?",
     "faq-4-text-repos": "Naravno da možeš!",
     "faq-4-text-1": "Otvoren sam za ljude koji žele da doprinesu mojim projektima i fork-uju ih za svoje potrebe!\nObično ne tražim zasluge za forkove, jer je to glavni razlog zašto su moji projekti otvoreni, ali bilo bi više nego lepo videti tvoju podršku.",
-
     "faq-5-title": "5. Mogu li donirati?",
     "faq-5-text": "Trenutno ne prihvatam donacije.\nAko bude bilo velike potrebe za tim, otvoriću tu mogućnost, ali MOLIM VAS, ako imate nešto drugo na šta možete da potrošite novac - potrošite to tamo, a ne na mene!\nZaista ne znam kako bih vam mogao zahvaliti osim lepom rečju i zahvalnošću.",
-
     "faq-footer": "Dodaću više pitanja ako bude bilo potrebe."
 }
