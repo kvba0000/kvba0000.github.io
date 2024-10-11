@@ -1,4 +1,13 @@
+@keyframes spin-simple {
+    0% {
+        rotate: 0deg;
+    }
+    100% {
+        rotate: 360deg;
+    }
+}
+
 html, body {
-    margin: 20px 100px;
-    padding: 0;
+    padding: 20px 5vw;
+    margin: 0;
 }
