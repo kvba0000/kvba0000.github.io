@@ -1,0 +1,25 @@
+@import url('defaults.css');
+@import url('entity/defaults.css');
+
+.entity-title {
+    display: flex;
+    align-items: flex-start; /* Vertically centers the image and title */
+    justify-content: space-between; /* Pushes the h1 to the left and the image to the right */
+}
+
+.entity-title img.preview {
+    max-width: 300px;
+    height: auto;
+    border: 3px solid var(--text);
+    margin: 0 0 50px 50px;
+}
+
+img.logo {
+    width: 100px;
+    height: 100px;
+}
+
+span.text-section {
+    display: block;
+    margin-top: 10px;
+}

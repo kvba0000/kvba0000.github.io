@@ -26,6 +26,7 @@ Remember to keep the format of file the same as the rest files have. Finish the 
 ## Credits
 ### Artists
 - [LHS](https://www.youtube.com/@LHSchiptunes) - Reloaded Installer #10 song
+- [AXAN](https://x.com/nseptimid/status/1783285145664917755) - Original creator of SCP-silly031 preview art.
 ### Generators/Tools
 - [sokmontrey](https://github.com/sokmontrey) - Ascii Generated Avatar (https://imageascii.netlify.app/)
 - [hermanTenuki](https://github.com/hermanTenuki) - Ascii Generated Logo (https://ascii-generator.site/)
